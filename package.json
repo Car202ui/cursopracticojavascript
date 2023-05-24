@@ -1,0 +1,23 @@
+{
+  "name": "cursopracticojavascript",
+  "version": "1.0.0",
+  "description": "practica con curso",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Car202ui/cursopracticojavascript.git"
+  },
+  "keywords": [
+    "javascript.ecmascript\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "Carlos iglesias qute929@gmail.com\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D <\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Car202ui/cursopracticojavascript/issues"
+  },
+  "homepage": "https://github.com/Car202ui/cursopracticojavascript#readme"
+}
